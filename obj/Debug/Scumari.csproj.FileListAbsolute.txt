@@ -1,0 +1,21 @@
+c:\users\alex\documents\visual studio 2015\Projects\Scumari\Scumari\bin\Debug\Scumari.exe.config
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Scumari\Scumari\bin\Debug\Scumari.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Scumari\Scumari\bin\Debug\Scumari.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Scumari\Scumari\obj\Debug\Scumari.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Scumari\Scumari\obj\Debug\Scumari.Form1.resources
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Scumari\Scumari\obj\Debug\Scumari.Properties.Resources.resources
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Scumari\Scumari\obj\Debug\Scumari.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Scumari\Scumari\obj\Debug\Scumari.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Scumari\Scumari\obj\Debug\Scumari.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Scumari\Scumari\obj\Debug\Scumari.csproj.ResolveComReference.cache
+C:\Users\alfam\source\repos\Scumari\Scumari\bin\Debug\Scumari.exe.config
+C:\Users\alfam\source\repos\Scumari\Scumari\bin\Debug\Scumari.exe
+C:\Users\alfam\source\repos\Scumari\Scumari\bin\Debug\Scumari.pdb
+C:\Users\alfam\source\repos\Scumari\Scumari\obj\Debug\Scumari.csprojAssemblyReference.cache
+C:\Users\alfam\source\repos\Scumari\Scumari\obj\Debug\Scumari.csproj.ResolveComReference.cache
+C:\Users\alfam\source\repos\Scumari\Scumari\obj\Debug\Scumari.Form1.resources
+C:\Users\alfam\source\repos\Scumari\Scumari\obj\Debug\Scumari.Properties.Resources.resources
+C:\Users\alfam\source\repos\Scumari\Scumari\obj\Debug\Scumari.csproj.GenerateResource.cache
+C:\Users\alfam\source\repos\Scumari\Scumari\obj\Debug\Scumari.exe
+C:\Users\alfam\source\repos\Scumari\Scumari\obj\Debug\Scumari.pdb
+C:\Users\alfam\source\repos\Scumari\Scumari\obj\Debug\Scumari.Register.resources
